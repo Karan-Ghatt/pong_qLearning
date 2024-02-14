@@ -1,7 +1,3 @@
-Certainly! Here's a simple README template for your Pong Game project on GitHub:
-
----
-
 # Pong Game with Q-Learning
 
 ![Pong Game](path/to/your/game/screenshot.png)
